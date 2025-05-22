@@ -1,0 +1,49 @@
+body{
+
+    /*Colors*/
+   /* White: hsl(0, 0%, 100%);
+
+    Slate 300: hsl(212, 45%, 89%);
+    Slate 500: hsl(216, 15%, 48%);
+    Slate 900: hsl(218, 44%, 22%);
+    
+
+    /*Font*/
+    font-family: "Poetsen One", Helvetica, sans-serif;
+    font-weight: 400;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.target{
+    width: 400px;
+    height: 550px;
+    background-color: whitesmoke;
+    margin: auto;
+
+    border-radius: 5%;
+    img{
+        margin: 15px;
+        width: 300px;
+        height: 300px;
+        border-radius: 8px;
+    }
+
+    .text{
+        text-align: center;
+        width: 80%;
+    }
+    .text1{
+        font-size: 20px;
+        color: hsl(218, 44%, 22%);
+    }
+    .text2{
+        font-size: 15x;
+        color: hsl(216, 15%, 48%);
+    }
+}
+
+.grid{
+    display: grid;
+    place-items: center;
+    margin-top: 5%;
+}
